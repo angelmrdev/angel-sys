@@ -1,6 +1,7 @@
 # Guía de instalación de Windows 11 24H2 (2025) + activación gratuita
 Guía paso a paso para la instalación de Windows 11 última versión 2025 (24H2).
-Esta guía es información complementaria del tutorial http://youtube.be/
+Esta guía es información complementaria del tutorial [Instalar Windows 11.](https://www.youtube.com/watch?v=U7T5CQknF6A)<br>
+Puedes descargar esta guia en PDF desde el blog https://angel-sys.blogspot.com/
 
 ><details>
 >  <summary>Tabla de Contenidos</summary>
