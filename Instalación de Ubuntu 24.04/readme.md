@@ -1,6 +1,6 @@
 # Guía de instalación de Ubuntu 24.04 LTS.
 Guía paso a paso para la instalación de Ubuntu 24.04 LTS Enero 2025. <br>
-Esta guía es información complementaria del tutorial [Instalar Ubuntu 24.04 LTS.](https://www.youtube.com/watch?v=U7T5CQknF6A)<br>
+Esta guía es información complementaria del tutorial [Instalar Ubuntu 24.04 LTS.](https://youtu.be/QbnPlRycXEc)<br>
 Puedes descargar esta **guia en PDF** desde el blog https://angel-sys.blogspot.com/
 
 ><details>
